@@ -27,7 +27,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind,c,cpp,java,py,git,mysql,postegresql,nodejs,vite,nextjs,,vscode,visualstudio,nvim, arduino,rasberrypi&perline=5" alt="languages and tools" align="center" />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,java,py,git,react,tailwind,mysql,mongodb,nodejs,vite,nextjs,vscode,visualstudio,nvim,arduino&perline=5" alt="languages and tools" align="center" />
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedirfanam&show_icons=true&locale=en&layout=compact" alt="mohamedirfanam" /></p>
 
