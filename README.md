@@ -9,20 +9,20 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/mohamedirfanam" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" height="30" width="40" />
+        <img align="center" src="https://img.icons8.com/color/48/twitter--v1.png" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/mohamedirfanam" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" alt="mohamedirfanam" height="30" width="40" />
+        <img align="center" src="https://img.icons8.com/color/48/linkedin.png" alt="mohamedirfanam" height="30" width="40" />
     </a>
-    <a href="https://www.codechef.com/users/mohamedirfan" target="blank"><img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codechef/default.svg" alt="mohamedirfan" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/mohamedirfan" target="blank"><img align="center" src="https://img.icons8.com/plasticine/100/codechef.png" alt="mohamedirfan" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/irfan_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" alt="irfan_" height="30" width="40" />
+        <img align="center" src="https://img.icons8.com/external-tal-revivo-filled-tal-revivo/24/external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo.png" alt="external-hackerrank-is-a-technology-company-that-focuses-on-competitive-programming-logo-filled-tal-revivo" alt="irfan_" height="30" width="40" />
     </a>
     <a href="https://codeforces.com/profile/irfan_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/codeforces/default.svg" alt="irfan_" height="30" width="40" />
+        <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo.png" alt="external-codeforces-programming-competitions-and-contests-programming-community-logo-color-tal-revivo" alt="irfan_" height="30" width="40" />
     </a>
     <a href="https://www.leetcode.com/irfan_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/leetcode/default.svg" alt="irfan_" height="30" width="40" />
+        <img align="center" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo.png" alt="external-level-up-your-coding-skills-and-quickly-land-a-job-logo-color-tal-revivo" alt="irfan_" height="30" width="40" />
     </a>
 </p>
 
