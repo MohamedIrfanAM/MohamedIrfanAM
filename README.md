@@ -1,26 +1,28 @@
 <h1 align="center">Hi 👋, I'm Mohamed Irfan</h1>
 <h3 align="center">Passionate full stack developer from India</h3>
 
-- 🔭 I’m currently working on [Textrade](https://github.com/mohamedirfanam/aleph-zero) - 🌱 I’m currently learning **React Native** - 👨‍💻 All of my projects are available at [https://irfan.live](https://irfan.live) - 📫 How to reach me
-**mohamed.irfan.rashid.am@gmail.com**
+- 🔭 I’m currently working on [Textrade](https://github.com/mohamedirfanam/aleph-zero)
+- 🌱 I’m currently learning **React Native**
+- 👨‍💻 All of my projects are available at [https://irfan.live](https://irfan.live)
+- 📫 How to reach me **mohamed.irfan.rashid.am@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://twitter.com/mohamedirfanam" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mohamedirfanam" height="30" width="40" />
+        <img align="center" src="https://icons8.com/icon/6Fsj3rv2DCmG/twitterx" alt="mohamedirfanam" height="30" width="40" />
     </a>
     <a href="https://linkedin.com/in/mohamedirfanam" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamedirfanam" height="30" width="40" />
+        <img align="center" src="https://icons8.com/icon/447/linkedin" alt="mohamedirfanam" height="30" width="40" />
     </a>
-    <a href="https://www.codechef.com/users/mohamedirfan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="mohamedirfan" height="30" width="40" /></a>
+    <a href="https://www.codechef.com/users/mohamedirfan" target="blank"><img align="center" src="https://icons8.com/icon/vAtJFm3hwtQw/codechef" alt="mohamedirfan" height="30" width="40" /></a>
     <a href="https://www.hackerrank.com/irfan_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="irfan_" height="30" width="40" />
+        <img align="center" src="https://icons8.com/icon/2ZRJzNbUDQAP/hackerrank-is-a-technology-company-that-focuses-on-competitive-programming" alt="irfan_" height="30" width="40" />
     </a>
     <a href="https://codeforces.com/profile/irfan_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="irfan_" height="30" width="40" />
+        <img align="center" src="https://icons8.com/icon/ZZZD5qV1xEby/codeforces.-programming-competitions-and-contests%2C-programming-community." alt="irfan_" height="30" width="40" />
     </a>
     <a href="https://www.leetcode.com/irfan_" target="blank">
-        <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="irfan_" height="30" width="40" />
+        <img align="center" src="https://icons8.com/icon/6cdjttfIiwc0/level-up-your-coding-skills-and-quickly-land-a-job" alt="irfan_" height="30" width="40" />
     </a>
 </p>
 
