@@ -75,12 +75,13 @@
 
 <h3 align="left">🔥   My Stats :</h3>
 
+<div align="center">
+	<img src="https://github-readme-stats-steel-seven-47.vercel.app/api?username=mohamedirfanam&theme=transparent" alt="Github status" align="center" />
+	<img align="center" src="https://github-readme-stats-steel-seven-47.vercel.app/api/top-langs?username=mohamedirfanam&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mohamedirfanam" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedirfanam&" alt="mohamedirfanam" />
+</div>
 
-<img src="https://github-readme-stats-steel-seven-47.vercel.app/api?username=mohamedirfanam&theme=transparent" alt="Github status" align="center" />
-<img align="center" src="https://github-readme-stats-steel-seven-47.vercel.app/api/top-langs?username=mohamedirfanam&show_icons=true&locale=en&layout=compact" alt="mohamedirfanam" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedirfanam&" alt="mohamedirfanam" />
 
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedirfanam" alt="mohamedirfanam" /></a>
 </p>
-
