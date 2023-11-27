@@ -76,8 +76,8 @@
 <h3 align="left">🔥   My Stats :</h3>
 
 
-<img align="center" src="https://github-readme-stats-axfg9q8l6-mohamedirfanam.vercel.app/api/top-langs?username=mohamedirfanam&show_icons=true&locale=en&layout=compactYtheme=transparent" alt="mohamedirfanam" />
-<img align="center" src="https://github-readme-stats-axfg9q8l6-mohamedirfanam.vercel.app/api?username=mohamedirfanam&show_icons=true&locale=en&theme=transparent" alt="mohamedirfanam" />
+<img src="https://github-readme-stats-steel-seven-47.vercel.app/api?username=noelg-cj&theme=radical" alt="Github status" align="center" />
+<img align="center" src="https://github-readme-stats-steel-seven-47.vercel.app/api?username=mohamedirfanam&show_icons=true&locale=en&theme=transparent" alt="mohamedirfanam" />
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedirfanam&" alt="mohamedirfanam" />
 
 <p align="center">
