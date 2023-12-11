@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm <a href="https://irfan.live">Mohamed Irfan</a></h1>
-<h3 align="center">Passionate full stack developer from India</h3>
+<!-- <h3 align="center">Passionate full stack developer from India</h3> -->
 
 - 🔭 I’m currently working on [Textrade](https://github.com/mohamedirfanam/aleph-zero)
 - 🌱 I’m currently learning **React Native**
