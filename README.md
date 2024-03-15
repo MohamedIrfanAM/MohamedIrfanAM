@@ -36,6 +36,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/golang.png" height="40" alt="html5 logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
@@ -71,13 +73,17 @@
   <img src="https://cdn.simpleicons.org/css3/1572B6" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/html5/E34F26" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://img.icons8.com/color/48/firebase.png" height="40" alt="html5 logo"  />
+
 </div>
 
 <h3 align="left">🔥   My Stats :</h3>
 
-<div align="center">
-	<img src="https://github-readme-stats-v666.vercel.app/api?username=mohamedirfanam&theme=transparent" alt="Github status" align="center" /><br/>
-	<img align="center" src="https://github-readme-stats-v666.vercel.app/api/top-langs?username=mohamedirfanam&show_icons=true&locale=en&layout=compact&theme=transparent" alt="mohamedirfanam" /><br/>
-	<img align="center" src="https://github-readme-streak-stats-og35.vercel.app?user=mohamedirfanam&theme=transparent" alt="mohamedirfanam" /><br/>
-</div>
+<table align="center">
+	<tr align = "center">
+		<td valign="top"><img src="https://github-readme-stats-v666.vercel.app/api?username=mohamedirfanam&theme=transparent" alt="Github status" align="center" /><br/></td>
+		<td valign="top"><img align="center" src="https://github-readme-streak-stats-og35.vercel.app?user=mohamedirfanam&theme=transparent" alt="mohamedirfanam" /><br/></td>
+	 </tr>
+</table>
 <br/>
