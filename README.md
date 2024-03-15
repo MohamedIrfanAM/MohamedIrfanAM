@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm <a href="https://irfan.live">Mohamed Irfan</a></h1>
 <!-- <h3 align="center">Passionate full stack developer from India</h3> -->
 
-- 🔭 I’m currently working on [Textrade](https://github.com/mohamedirfanam/textrade)
+- 🔭 I’m currently working on [GhostChat](https://github.com/mohamedirfanam/ghostchat)
 - 🌱 I’m currently learning **React Native**
 - 👨‍💻 All of my projects are available at [https://irfan.live](https://irfan.live)
 - 📫 How to reach me **mohamed.irfan.rashid.am@gmail.com**
@@ -81,7 +81,3 @@
 	<img align="center" src="https://github-readme-streak-stats-og35.vercel.app?user=mohamedirfanam&theme=transparent" alt="mohamedirfanam" /><br/>
 </div>
 <br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohamedirfanam&column=5&theme=onedark&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="trophies" align="center" />
-</div>
